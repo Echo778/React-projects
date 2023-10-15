@@ -1,7 +1,4 @@
 '''
-    QI NIU
-    16 Sep 2023
-    Lab 2 code file
     Ask the user for 4 words and print them out in alphabetical order.
 '''
 
