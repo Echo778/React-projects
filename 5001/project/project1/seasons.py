@@ -1,7 +1,4 @@
 '''
-    QI NIU
-    16 Sep 2023
-    Lab 2 code file
     Ask the user for a date and print out the season that date happens in.
 '''
 
