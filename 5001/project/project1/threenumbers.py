@@ -1,7 +1,4 @@
 '''
-    QI NIU
-    16 Sep 2023
-    Lab 2 code file
     Ask the user for three numbers and print the biggest and smallest and the average of these numbers.
 '''
 
